@@ -26,11 +26,13 @@ You can run the following Command:
 python distinct_eigvalues.py
 ```
 
-## eigendecomposition
+## Eigendecomposition
 
-Run the "python eigendecomposition.py" command to perform eigendecomposition on all ten datasets,
+Run the following command to perform eigendecomposition on all ten datasets,
 and will print the time required for each eigendecomposition.
-
+```
+python eigendecomposition.py
+```
 The eigenvalues and eigenvectors are stored in the data directory.
 
 ### Running the code
